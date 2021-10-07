@@ -17,7 +17,7 @@ for idx, feed in enumerate(rss_feed['entries']):
     feed_date = feed['published_parsed'] 
     latest_blog_post_list += f"[{feed_date.tm_year}/{feed_date.tm_mon}/{feed_date.tm_mday} - {feed['title']}]({feed['link']}) <br>\n"
 
-markdown_text = """https://honeywater97.tistory.com 최신 목록\n"""
+markdown_text = """https://honeywater97.tistory.com 최신 목록! \n\n"""
 readme_text = f"{markdown_text}{latest_blog_post_list}"
 with open("README.md", 'w', encoding='utf-8') as f:
     f.write(readme_text)
