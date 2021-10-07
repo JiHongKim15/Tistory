@@ -1,23 +1,40 @@
-import feedparser
+# This workflow will install Python dependencies, run tests and lint with a single version of Python
+# For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
 
+name: Python application
 
-blog_rss_url = "https://honeywater97.tistory.com/rss"
-rss_feed = feedparser.parse(blog_rss_url)
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+  schedule:
+      - cron: "0 0 */1 * *"
 
-MAX_POST_NUM = 10
+jobs:
+  build:
 
-latest_blog_post_list = ""
+    runs-on: ubuntu-latest
 
-MAX_POST_NUM = 10
-
-
-for idx, feed in enumerate(rss_feed['entries']):
-    if idx > MAX_POST_NUM:
-        break
-    feed_date = feed['published_parsed'] 
-    latest_blog_post_list += f"[{feed_date.tm_year}/{feed_date.tm_mon}/{feed_date.tm_mday} - {feed['title']}]({feed['link']}) <br>\n"
-
-markdown_text = """https://honeywater97.tistory.com 최신 목록"""
-readme_text = f"{markdown_text}{latest_blog_post_list}"
-with open("README.md", 'w', encoding='utf-8') as f:
-    f.write(readme_text)
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.9
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install feedparser
+    - name: Run Update Python Script
+      run: |
+        python tistory_update.py
+    - name: Update README.md file
+      run: |
+        git pull
+        git add .
+        git diff
+        git config --local user.email "15computer@hanmail.net"
+        git config --local user.name "JiHongKim15"
+        git commit -m "Update tistory title list"
+        git push
