@@ -1,5 +1,6 @@
 https://honeywater97.tistory.com 최신 목록! 
 
+[2021/10/25 - [DBeaver] 디비버 단축키 정리](https://honeywater97.tistory.com/212) <br>
 [2021/10/25 - [Clean Code] 2장, 의미 있는 이름](https://honeywater97.tistory.com/211) <br>
 [2021/10/20 - 화장 자동으로 지워주는 기계 개발좀](https://honeywater97.tistory.com/210) <br>
 [2021/10/15 - [리뷰] 토스뱅크 체크 카드 - 레몬블루 후기](https://honeywater97.tistory.com/209) <br>
@@ -9,4 +10,3 @@ https://honeywater97.tistory.com 최신 목록!
 [2021/10/1 - [Spring] Spring Cloud 개념 및 핵심 컴포넌트](https://honeywater97.tistory.com/205) <br>
 [2021/9/28 - [Architecture] MSA](https://honeywater97.tistory.com/204) <br>
 [2021/9/28 - [Java] Lambda expression](https://honeywater97.tistory.com/203) <br>
-[2021/9/24 - [SpringBoot] Transaction 사용하기](https://honeywater97.tistory.com/202) <br>
