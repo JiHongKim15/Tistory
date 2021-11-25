@@ -1,5 +1,6 @@
 https://honeywater97.tistory.com 최신 목록! 
 
+[2021/11/25 - 자바스크립트 중 만나게 된 Error들](https://honeywater97.tistory.com/238) <br>
 [2021/11/24 - 개발자도구 f12 console clear](https://honeywater97.tistory.com/237) <br>
 [2021/11/22 - [Clean Code] 1달1권, 첫번째 책 후기](https://honeywater97.tistory.com/236) <br>
 [2021/11/22 - [Java] java.lang.OutOfMemoryError: Metaspace](https://honeywater97.tistory.com/235) <br>
@@ -9,4 +10,3 @@ https://honeywater97.tistory.com 최신 목록!
 [2021/11/13 - [Clean Code] 13장, 동시성](https://honeywater97.tistory.com/231) <br>
 [2021/11/13 - [Clean Code] 12장, 창발성](https://honeywater97.tistory.com/230) <br>
 [2021/11/7 - [Clean Code] 11장, 시스템](https://honeywater97.tistory.com/229) <br>
-[2021/11/7 - [Clean Code] 10장, 클래스](https://honeywater97.tistory.com/228) <br>
