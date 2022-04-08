@@ -1,5 +1,6 @@
 https://honeywater97.tistory.com 최신 목록! 
 
+[2022/4/8 - [TypeScript] Typescript 장점과 타입](https://honeywater97.tistory.com/266) <br>
 [2022/4/5 - [Mysql] Mac에서 Mysql 실행 간단 명령어](https://honeywater97.tistory.com/265) <br>
 [2022/4/4 - [SpringBoot] WebSecurityConfigurerAdapter 지원 불가](https://honeywater97.tistory.com/264) <br>
 [2022/3/18 - [git] 자주 쓰는 git 명령어 정리](https://honeywater97.tistory.com/263) <br>
@@ -9,4 +10,3 @@ https://honeywater97.tistory.com 최신 목록!
 [2022/1/30 - [코딩인터뷰] 자료구조 - 배열과 문자열 해법](https://honeywater97.tistory.com/259) <br>
 [2022/1/25 - [Vue.js] 최신 Typescript를 사용할 경우, 발생하는 에러](https://honeywater97.tistory.com/258) <br>
 [2022/1/23 - [SpringBoot] 열리는 Port 변경하기](https://honeywater97.tistory.com/257) <br>
-[2022/1/23 - [SpringBoot] Spring Initializr로 스프링부트 실행하기](https://honeywater97.tistory.com/256) <br>
