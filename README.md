@@ -1,6 +1,6 @@
 https://honeywater97.tistory.com 최신 목록! 
 
-[2022/4/12 - 데이터 모델링의 이해](https://honeywater97.tistory.com/267) <br>
+[2022/4/12 - [DB] 데이터 모델링의 이해 - 논리 모델링 절차](https://honeywater97.tistory.com/267) <br>
 [2022/4/8 - [TypeScript] Typescript 장점과 타입](https://honeywater97.tistory.com/266) <br>
 [2022/4/5 - [Mysql] Mac에서 Mysql 실행 간단 명령어](https://honeywater97.tistory.com/265) <br>
 [2022/4/4 - [SpringBoot] WebSecurityConfigurerAdapter 지원 불가](https://honeywater97.tistory.com/264) <br>
