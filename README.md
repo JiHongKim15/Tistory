@@ -1,5 +1,6 @@
 https://honeywater97.tistory.com 최신 목록! 
 
+[2022/8/17 - [데이터설계] 3장, 저장소와 검색](https://honeywater97.tistory.com/273) <br>
 [2022/8/12 - [데이터설계] 2장, 데이터 모델과 질의 언어](https://honeywater97.tistory.com/272) <br>
 [2022/6/16 - [Error] Mapper.class를 찾지 못하는 현상](https://honeywater97.tistory.com/271) <br>
 [2022/5/25 - [BOJ] 나이순 정렬 10814.java](https://honeywater97.tistory.com/270) <br>
@@ -9,4 +10,3 @@ https://honeywater97.tistory.com 최신 목록!
 [2022/4/8 - [TypeScript] Typescript 장점과 타입](https://honeywater97.tistory.com/266) <br>
 [2022/4/5 - [Mysql] Mac에서 Mysql 실행 간단 명령어](https://honeywater97.tistory.com/265) <br>
 [2022/4/4 - [SpringBoot] WebSecurityConfigurerAdapter 지원 불가](https://honeywater97.tistory.com/264) <br>
-[2022/3/18 - [git] 자주 쓰는 git 명령어 정리](https://honeywater97.tistory.com/263) <br>
