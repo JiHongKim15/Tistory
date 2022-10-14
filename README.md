@@ -1,7 +1,6 @@
 https://honeywater97.tistory.com 최신 목록! 
 
 [2022/10/10 - [데이터설계] 8장, 분산 시스템의 골칫거리](https://honeywater97.tistory.com/277) <br>
-[2022/8/30 - Autowired 단점](https://honeywater97.tistory.com/276) <br>
 [2022/8/20 - [데이터설계] 3장, 저장소와 검색 -  트랜잭션](https://honeywater97.tistory.com/274) <br>
 [2022/8/17 - [데이터설계] 3장, 저장소와 검색](https://honeywater97.tistory.com/273) <br>
 [2022/8/12 - [데이터설계] 2장, 데이터 모델과 질의 언어](https://honeywater97.tistory.com/272) <br>
@@ -10,3 +9,4 @@ https://honeywater97.tistory.com 최신 목록!
 [2022/4/23 - [DB] 데이터 모델링의 이해 - 물리 모델링 절차](https://honeywater97.tistory.com/269) <br>
 [2022/4/19 - [프로그래머스] 종이접기 - Cos Pro 1급](https://honeywater97.tistory.com/268) <br>
 [2022/4/12 - [DB] 데이터 모델링의 이해 - 논리 모델링 절차](https://honeywater97.tistory.com/267) <br>
+[2022/4/8 - [TypeScript] Typescript 장점과 타입](https://honeywater97.tistory.com/266) <br>
